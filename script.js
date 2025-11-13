@@ -108,4 +108,3 @@
 
 let names = a.map(item => item);
 console.log(names);
-document.write(names);
